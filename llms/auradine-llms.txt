@@ -1,0 +1,33 @@
+﻿# Velaura AI
+
+> Velaura AI, Inc., formerly Auradine, builds ultra-low-power compute solutions for data center, edge, and physical AI applications. Its Titan Core silicon design and IP platform helps AI compute platforms reduce power requirements while maintaining performance.
+
+## Core pages
+
+- [Homepage](https://velaura.ai/): Overview of Velaura AI and its ultra-low-power compute focus for cloud, edge, and physical AI.
+- [Titan Core - Low Power AI Compute](https://velaura.ai/low-power-ai-compute/): Silicon design and IP platform for ultra-low-power AI compute. Public page claims include approximately 2-4x reduction in power used for arithmetic operations, 250W-500W reduction on a 1,000W XPU chip, and $650-$1,300 per chip in estimated three-year power savings, excluding cooling and infrastructure.
+- [Teraflux Bitcoin Mining Solutions](https://velaura.ai/products/): High-efficiency Bitcoin mining hardware, ASICs, containers, and fleet management software.
+
+## Company
+
+- [Team](https://velaura.ai/team/): Velaura leadership, board, investors, and company background.
+- [Careers](https://velaura.ai/careers/): Open roles and hiring information.
+- [Contact](https://velaura.ai/#contactForm): Contact form and company contact details.
+
+## Resources
+
+- [Resources](https://velaura.ai/resources/): Velaura resources hub.
+- [Introducing Velaura AI](https://velaura.ai/introducing-velaura-ai/): Rebrand announcement from Auradine to Velaura AI.
+- [Titan Core Launch](https://velaura.ai/velaura-ai-unveils-silicon-design-and-ip-platform/): Titan Core announcement.
+
+## Entity details
+
+- Name: Velaura AI
+- Legal name: Velaura AI, Inc.
+- Former name: Auradine
+- Website: https://velaura.ai/
+- LinkedIn: https://www.linkedin.com/company/velaura-ai-inc/
+- X: https://x.com/velaura_ai
+- YouTube: https://www.youtube.com/@velaura_ai
+- Address: 3200 Coronado Drive, Santa Clara, CA 95054
+- Email: info@velaura.ai

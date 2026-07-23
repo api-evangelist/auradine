@@ -1,7 +1,30 @@
 aid: auradine
-name: Auradine
-description: Auradine is a company surfaced as a portfolio company of dcvc and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/auradine.png
+name: Auradine (Velaura AI)
+description: >-
+  Auradine, Inc. is a Silicon Valley semiconductor and infrastructure company
+  founded in 2022, in 2026 rebranded as Velaura AI, Inc. The company designs
+  ultra-low-power compute solutions for data center, edge, and physical AI
+  applications, anchored by its Titan Core silicon design and IP platform that
+  reduces the power required for AI compute while maintaining performance. Its
+  Teraflux product line delivers high-efficiency Bitcoin mining hardware
+  (3nm ASICs, air- and hydro-cooled miners, containers, and fleet management
+  software) deployed by leading Bitcoin data center operators. Auradine raised
+  over $300 million across its funding rounds, including a $153M Series C, and
+  is backed by investors including DCVC. This is a company profile in the API
+  Evangelist network; Auradine/Velaura AI publishes no public developer API or
+  developer portal at this time.
 url: https://raw.githubusercontent.com/api-evangelist/auradine/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +32,49 @@ x-backed-by:
 - dcvc
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-former-name: Auradine
+x-current-name: Velaura AI, Inc.
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Semiconductors
+- AI Infrastructure
+- Low Power AI Compute
+- Blockchain
+- Bitcoin Mining
+- Data Center
+- Silicon
+- Edge Computing
+- Hardware
 apis: []
+common:
+- type: DomainSecurity
+  url: security/auradine-domain-security.yml
+- type: Website
+  url: https://velaura.ai/
+- type: Blog
+  url: https://velaura.ai/resources/
+- type: Support
+  url: https://velaura.ai/#contactForm
+- type: PrivacyPolicy
+  url: https://velaura.ai/wp-content/uploads/2024/09/Auradine-Inc.-Privacy-Notice-August-2024.pdf
+- type: LinkedIn
+  url: https://www.linkedin.com/company/velaura-ai-inc/
+- type: Twitter
+  url: https://x.com/velaura_ai
+- type: YouTube
+  url: https://www.youtube.com/@velaura_ai
+- type: LLMsTxt
+  url: llms/auradine-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
