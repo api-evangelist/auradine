@@ -2,6 +2,13 @@
   "repo": "auradine",
   "feeds": [
     {
+      "source": "https://velaura.ai/feed/",
+      "feed_url": "https://velaura.ai/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://velaura.ai/",
       "feed_url": "https://velaura.ai/feed/",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-07-20T13:31:34Z"
+  "post_count": 9,
+  "fetched": "2026-08-01T15:49:00Z"
 }
