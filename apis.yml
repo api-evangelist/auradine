@@ -55,7 +55,7 @@ tags:
 - Low Power AI Compute
 - Blockchain
 - Bitcoin Mining
-- Data-Center
+- Data Center
 - Silicon
 - Edge Computing
 - Hardware
@@ -70,6 +70,7 @@ tags_raw:
 - Silicon
 - Edge Computing
 - Hardware
+- Data-Center
 apis: []
 common:
 - type: DomainSecurity
